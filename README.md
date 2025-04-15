@@ -82,10 +82,6 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 <br><br>
 
-- Let's Catch
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-<br><br>
-
 - Gradient Line
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
@@ -155,4 +151,12 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media.giphy.com/media/KsKZpeYRw5AWI/giphy.gif?cid=ecf05e47aljvf0tvb726m2njgm1wcny4rwhdf71kg3a2ipdn&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300">
 </div>
 
+- RAINBOW NGALIR
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJydm40eWEzN2xpNmtqM3Y5YXM4OGJ6YXNqODR0OGg0bWowZDdycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y30LCMuHRVbxK/giphy.gif" width="300">
+</div>
 
+- RAINBOW NGALIR 1
+<div align="center">
+<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
