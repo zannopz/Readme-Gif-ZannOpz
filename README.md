@@ -82,10 +82,12 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <br><br>
 
 - Gradient Line
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-<br><br>
+<br><br></div>
 
 - Pixel GiFs
+<div align="center">
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
@@ -93,30 +95,41 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
   <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
-</div>
+</div></div>
 <br><br>
 
 - Infinite Loop
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="300">
-<br><br>
+<br><br></div>
 
 - Very close octocats
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300">
-<br><br>
+<br><br></div>
 
 - Robot Arm Boogies Hard: Getting Jiggy with it!
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-<br><br>
+<br><br></div>
 
 - Programming
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-<br><br>
+<br><br></div>
 
+- BANNER
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
+- RGB ROG
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU4MmdmOWdtY2R5M3R4cmVhZnF5N3l1cmp3YjlqcWsyYmNqbjIzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VRWfvs3Cs0BJSlvZrn/giphy.gif" width="300">
+</div>
 
+- INFINITE LOOP PC
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU4MmdmOWdtY2R5M3R4cmVhZnF5N3l1cmp3YjlqcWsyYmNqbjIzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lI3C51XtdvxUxq/giphy.gif" width="300">
+</div>
 
 - LINE RGB
 <div align="center">
