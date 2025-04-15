@@ -66,20 +66,24 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <br><br></div>
 
 - Client Vs Designer
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300">
-<br><br>
+<br><br></div>
 
 - Action Packed
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br><br>
+<br><br></div>
 
 - Android Developer Challenge
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
-<br><br>
+<br><br></div>
 
 - Let's Catch
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-<br><br>
+<br><br></div>
 
 - Gradient Line
 <div align="center">
