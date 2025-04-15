@@ -81,10 +81,6 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 <br><br>
 
-- Code the cool stuff
-<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
-<br><br>
-
 - Gradient Line
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
@@ -126,4 +122,13 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjgybjkwOWp4M2hpMjBvZ2d1dW9jdDduMGp2bW8yMmR0bmhtbjR0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mcdUaSwxsFdNi0ymn/giphy.gif" height="12px" width="1000">
 
+- LINE 
 <img src="https://media.giphy.com/media/vUF3ACTeBPUqs/giphy.gif?cid=ecf05e47901dzcw3vicdwxex00seo1rzmeqouqfc1fpk7l21&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+
+- RAINBOW CAT
+<img src="https://media.giphy.com/media/kvzYXUHkMJrbi/giphy.gif?cid=ecf05e47aljvf0tvb726m2njgm1wcny4rwhdf71kg3a2ipdn&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300">
+
+- RAINBOW CAT 1
+<img src="https://media.giphy.com/media/KsKZpeYRw5AWI/giphy.gif?cid=ecf05e47aljvf0tvb726m2njgm1wcny4rwhdf71kg3a2ipdn&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300">
+
+
