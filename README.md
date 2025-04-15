@@ -122,4 +122,4 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU4MmdmOWdtY2R5M3R4cmVhZnF5N3l1cmp3YjlqcWsyYmNqbjIzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lI3C51XtdvxUxq/giphy.gif" width="300">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRhYTVpMDVmN2dnMXk1OGQ2MmN5ZXBlb3Qycnd4ZzNoZGV1bWYwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lATHgo28tk5XNt24eG/giphy.gif" width="1000">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRhYTVpMDVmN2dnMXk1OGQ2MmN5ZXBlb3Qycnd4ZzNoZGV1bWYwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lATHgo28tk5XNt24eG/giphy.gif" height="1000" width="1000">
