@@ -41,16 +41,19 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <br><br>
 
 - Work 24/7
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="500">
-<br><br>
+<br><br></div>
 
 - Coding from Home
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
-<br><br>
+<br><br></div>
 
 - Development Time
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
-<br><br>
+<br><br></div>
 
 - Perfect Loop
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
