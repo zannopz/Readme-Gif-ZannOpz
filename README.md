@@ -10,8 +10,6 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 </div>
 
 
-
-
 - GIF PARROTS
     <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -81,9 +79,8 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <br><br></div>
 
 - Let's Catch
-<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-<br><br></div>
+<br><br>
 
 - Gradient Line
 <div align="center">
