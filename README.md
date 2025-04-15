@@ -118,17 +118,24 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU4MmdmOWdtY2R5M3R4cmVhZnF5N3l1cmp3YjlqcWsyYmNqbjIzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lI3C51XtdvxUxq/giphy.gif" width="300">
 
+- LINE RGB
+<div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNyZXdtdjZ0OXF0NWhwMW54Y3BzdHNyejMxb29yajVnejIzeDRpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S7O1QhukpeeSok0zCr/giphy.gif" height="12px" width="1000">
+</div>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjgybjkwOWp4M2hpMjBvZ2d1dW9jdDduMGp2bW8yMmR0bmhtbjR0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mcdUaSwxsFdNi0ymn/giphy.gif" height="12px" width="1000">
-
-- LINE 
+- RAINBOW BLOK
+<div align="center">
 <img src="https://media.giphy.com/media/vUF3ACTeBPUqs/giphy.gif?cid=ecf05e47901dzcw3vicdwxex00seo1rzmeqouqfc1fpk7l21&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
 
 - RAINBOW CAT
+<div align="center">
 <img src="https://media.giphy.com/media/kvzYXUHkMJrbi/giphy.gif?cid=ecf05e47aljvf0tvb726m2njgm1wcny4rwhdf71kg3a2ipdn&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300">
+</div>
 
 - RAINBOW CAT 1
+<div align="center">
 <img src="https://media.giphy.com/media/KsKZpeYRw5AWI/giphy.gif?cid=ecf05e47aljvf0tvb726m2njgm1wcny4rwhdf71kg3a2ipdn&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300">
+</div>
 
 
