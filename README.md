@@ -186,14 +186,14 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media.giphy.com/media/l3nWgXCpQpMUOrkoo/giphy.gif?cid=ecf05e47sadouxdfm64xiavmxib057ma64cdtug6d2xcfks6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
--
+- BLACK DEMON GLITCH
 <div align="center">
 <img src="https://media.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47cua3f6wgb431pvboup8b6ezc5d1t96nj535easjs&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
 -
 <div align="center">
-<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/rPn0Aq49KVSazc3XZu/giphy.gif?cid=ecf05e47pkd7w4xgwe3hnr29znx4ih6skjkxleiyp2hvvjsu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
 -
