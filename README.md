@@ -163,7 +163,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - PENGUIN DEV
 <div align="center">
-<img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=ecf05e47tyxow3yklayi9i93vnbi5kclqo1fzemgwned69rq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.gif?cid=ecf05e47ps147b9259lztvuqrzjl9b9fkys1z4gq720yvzw3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
 - DEBUG DEV
@@ -202,4 +202,4 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 </div>
 
 
-<img src="https://media.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.gif?cid=ecf05e47ps147b9259lztvuqrzjl9b9fkys1z4gq720yvzw3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+
