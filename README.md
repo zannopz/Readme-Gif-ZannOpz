@@ -160,3 +160,43 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <div align="center">
 <img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
+
+- PENGUIN DEV
+<div align="center">
+<img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=ecf05e47tyxow3yklayi9i93vnbi5kclqo1fzemgwned69rq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+- DEBUG DEV
+<div align="center">
+<img src=https://media.giphy.com/media/efuh1hLg1H438esuwG/giphy.gif?cid=ecf05e47vsjhez3wfo9gvzv0sisb50z503bjgksto3vwd5vd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+- ALIEN DEV
+<div align="center">
+<img src="[https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/AqVx0YGEyRajOI3Pkm/giphy.gif?cid=ecf05e47o1jiskmjxm6v5n88urqre6awll9ipp2x13h4aqau&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="300">
+</div>
+
+-
+<div align="center">
+<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+-
+<div align="center">
+<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+-
+<div align="center">
+<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+-
+<div align="center">
+<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+-
+<div align="center">
+<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
