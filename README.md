@@ -183,7 +183,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 -
 <div align="center">
-<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/l3nWgXCpQpMUOrkoo/giphy.gif?cid=ecf05e47sadouxdfm64xiavmxib057ma64cdtug6d2xcfks6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
 -
