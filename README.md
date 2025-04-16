@@ -178,7 +178,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - CAT DEV
 <div align="center">
-<img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif?cid=ecf05e47vvwkshbdzn6o6icvr09relu1anu9ny4505el8clx&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="600" width="300">
+<img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif?cid=ecf05e47vvwkshbdzn6o6icvr09relu1anu9ny4505el8clx&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="400" width="300">
 </div>
 
 -
