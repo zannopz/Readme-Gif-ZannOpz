@@ -198,5 +198,5 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - RGB ROG
 <div align="center">
-<img src="https://i.pinimg.com/originals/e0/b2/2d/e0b22debb35b00725eff25fb0e210ca4.gif" height="500" width="1000">
+<img src="https://i.pinimg.com/originals/e0/b2/2d/e0b22debb35b00725eff25fb0e210ca4.gif" height="50" width="1000">
 </div>
