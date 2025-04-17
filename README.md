@@ -198,7 +198,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 -
 <div align="center">
-<img src="https://media.giphy.com/media/aH6dxU78RreY8/giphy.gif?cid=ecf05e47wg17zogi578khnld2yhngv8s1pzjjveqt9s9yjto&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://i.pinimg.com/originals/e0/b2/2d/e0b22debb35b00725eff25fb0e210ca4.gif" width="300">
 </div>
 
 <img src="">
