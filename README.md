@@ -203,7 +203,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - RGB SETUP
 <div align="center">
-<img src="Mentahan Gif/RGB Setup.gif" width="300">
+<img src="Mentahan Gif/RGB Setup.gif" width="1000">
 </div>
 
 - RGB IDK
