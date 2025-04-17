@@ -198,5 +198,5 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - RGB ROG
 <div align="center">
-<img src="Mentahan Gif/Hello World" width="300">
+<img src="Mentahan Gif/Hello World.gif" width="300">
 </div>
