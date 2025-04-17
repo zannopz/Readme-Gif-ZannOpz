@@ -196,7 +196,37 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media.giphy.com/media/rPn0Aq49KVSazc3XZu/giphy.gif?cid=ecf05e47pkd7w4xgwe3hnr29znx4ih6skjkxleiyp2hvvjsu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
-- RGB ROG
+- Hello World
 <div align="center">
 <img src="Mentahan Gif/Hello World.gif" width="300">
+</div>
+
+- RGB SETUP
+<div align="center">
+<img src="Mentahan Gif/RGB Setup.gif" width="300">
+</div>
+
+- RGB IDK
+<div align="center">
+<img src="Mentahan Gif/RGB IDK.gif" width="300">
+</div>
+
+- DUCK DEV
+<div align="center">
+<img src="Mentahan Gif/Duck Dev.gif" width="300">
+</div>
+
+- CUTE
+<div align="center">
+<img src="Mentahan Gif/Cute.gif" width="300">
+</div>
+
+- CUTE DANCE
+<div align="center">
+<img src="Mentahan Gif/Cute Dance.gif" width="300">
+</div>
+
+- CUTE CAT
+<div align="center">
+<img src="Mentahan Gif/Cute Cat.gif" width="300">
 </div>
