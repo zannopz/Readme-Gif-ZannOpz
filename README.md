@@ -191,12 +191,12 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47cua3f6wgb431pvboup8b6ezc5d1t96nj535easjs&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
--
+- IDK
 <div align="center">
 <img src="https://media.giphy.com/media/rPn0Aq49KVSazc3XZu/giphy.gif?cid=ecf05e47pkd7w4xgwe3hnr29znx4ih6skjkxleiyp2hvvjsu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
--
+- RGB ROG
 <div align="center">
-<img src="https://i.pinimg.com/originals/e0/b2/2d/e0b22debb35b00725eff25fb0e210ca4.gif" width="300">
+<img src="https://i.pinimg.com/originals/e0/b2/2d/e0b22debb35b00725eff25fb0e210ca4.gif" width="1000">
 </div>
