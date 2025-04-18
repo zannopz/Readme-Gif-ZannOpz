@@ -275,3 +275,8 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <div align="center">
 <img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" witdh="300">
 </div>
+
+- Pile of broken robots
+<div align="center">
+<img src="https://media.giphy.com/media/Q2x285L8QucDuQXTb1/giphy.gif?cid=ecf05e47eayyh44be00nf50o2dxfol4sut6vi6m0nilxycfc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
