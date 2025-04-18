@@ -271,9 +271,9 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif?cid=ecf05e47l12l5l1wl7fabi320nldfeuqzkfz04fz55zdyezl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
-- SENDING HUGE
+- PIXEL SENDING HUGE
 <div align="center">
-<img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40" width="500">
+<img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" <img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40" width="500">
 </div>
 
 - Pile of broken robots
