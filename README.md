@@ -298,5 +298,9 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFoNndqbmY4NTZmbnZtZGdrOTZ2dTVvbzlveWZnbTF1NnpnbWd3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="400">
 </div>
 
-
+- PC RGB
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF3MWJsazFhdHRyb2Zid2R3emNyamF3dzVuczU4c3BvNTlyN3k2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="400">
+<img src="PNG/2.gif" width="400">
+</div>
 
