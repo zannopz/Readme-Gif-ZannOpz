@@ -281,7 +281,6 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
   <img src="https://media.giphy.com/media/KFBEaCDJqAjUvbPop5/giphy.gif?cid=ecf05e47mi56r86sxmcg0rh4nzk94fltcu7gljwyneymv075&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="40" width="500">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG15a3dhOXJ5aWdmZnNwbjRsdDZ0ZDRwOWljYnQ2enpiZno4MGVsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Db7EatnzFsOsaW87WI/giphy.gif" height="40" width="500">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJqYXQzOGp4OHdxOTB1ODBxNmN6ZzVlOGVjbTZlbHh3OWZoM2J6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif" height="40" width="500">
-</div>
 <img src="https://media.giphy.com/media/qL1c5Z3gt8IPnPme5B/giphy.gif?cid=ecf05e47ve4eoo2n3klrbb16vp4tdeqr0lpab074o68ubl9c&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40" width="500">
 </div>
 
@@ -292,7 +291,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - PIXEL DEV
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif" height="40" width="500">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" height="40" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100">
 </div>
 
