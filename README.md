@@ -241,14 +241,14 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47i11k9xb720ocaswhwyvexwxze9ufq3bqxrn8xt7z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
-- CAT CMD
+- IDK
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5heXBqbmtsa2EwcW1kZjBwMm9mMmMxd3NoYWY5cXNlYmdwcG1payZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR5Z2Rhem5pYTJ1ODB4N3pibjZudjZ2azRieXVra3YwOXVkNGI4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NWNpJI5FGD6gI1jTIQ/giphy.gif" width="300">
 </div>
 
-- PENGUIN DEV
+- Computer Caught Fire
 <div align="center">
-<img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=ecf05e470hgvqw921xcxhljiton0zis0e1g7dmi2eny64nhk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/Rlf069OktUKdfjGULs/giphy.gif?cid=ecf05e476oqw3czczk8taphpihoygwb0g6if5ywny1o84awd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
 
 - STICKMAN DEV
