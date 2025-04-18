@@ -231,5 +231,12 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="Mentahan Gif/Cute Cat.gif" width="300">
 </div>
 
--
+- RUBAH DEV
+<div align="center">
 <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif?cid=ecf05e47f88gup8xva2z5f3j212fjgnj2wdylf3vxm9uh7hk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+- ENJOY DEV
+<div align="center">
+<img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47i11k9xb720ocaswhwyvexwxze9ufq3bqxrn8xt7z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
