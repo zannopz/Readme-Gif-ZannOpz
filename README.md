@@ -282,9 +282,17 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG15a3dhOXJ5aWdmZnNwbjRsdDZ0ZDRwOWljYnQ2enpiZno4MGVsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Db7EatnzFsOsaW87WI/giphy.gif" height="40" width="500">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJqYXQzOGp4OHdxOTB1ODBxNmN6ZzVlOGVjbTZlbHh3OWZoM2J6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif" height="40" width="500">
 </div>
-
+<img src="https://media.giphy.com/media/qL1c5Z3gt8IPnPme5B/giphy.gif?cid=ecf05e47ve4eoo2n3klrbb16vp4tdeqr0lpab074o68ubl9c&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40" width="500">
+</div>
 
 - Pile of broken robots
 <div align="center">
 <img src="https://media.giphy.com/media/Q2x285L8QucDuQXTb1/giphy.gif?cid=ecf05e47eayyh44be00nf50o2dxfol4sut6vi6m0nilxycfc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
+
+- PIXEL DEV
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif" height="40" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" height="40" width="500">
+</div>
+
