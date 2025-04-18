@@ -301,6 +301,6 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 - PC RGB
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF3MWJsazFhdHRyb2Zid2R3emNyamF3dzVuczU4c3BvNTlyN3k2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="400">
-<img src="PNG/2.gif" width="400">
+<img src="Mentahan Gif/2.gif" width="400">
 </div>
 
