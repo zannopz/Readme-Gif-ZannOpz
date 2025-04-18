@@ -278,9 +278,9 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
   <img src="https://media.giphy.com/media/sKLC3yrhSsxpzMBK5Y/giphy.gif?cid=ecf05e47pu2jaww7d2tlx8pobhf42b414e9sd8oa0vzo99v5&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="40" width="500">
   <img src="https://media.giphy.com/media/98o5d7NnDpMGustgTj/giphy.gif?cid=ecf05e4741ussdhi9gwy16hlovjaakm0yvspaxrq6hp3r0ky&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="40" width="500">
   <img src="https://media.giphy.com/media/yjsvJsOZ50CdnqNTvN/giphy.gif?cid=ecf05e47as42pcwliwpvkjfzwk1l23byqv9zk8shj9hrkl24&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="40" width="500">
-  <img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40" width="500">
-  <img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40" width="500">
-  <img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40" width="500">
+  <img src="https://media.giphy.com/media/KFBEaCDJqAjUvbPop5/giphy.gif?cid=ecf05e47mi56r86sxmcg0rh4nzk94fltcu7gljwyneymv075&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="40" width="500">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG15a3dhOXJ5aWdmZnNwbjRsdDZ0ZDRwOWljYnQ2enpiZno4MGVsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Db7EatnzFsOsaW87WI/giphy.gif" height="40" width="500">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJqYXQzOGp4OHdxOTB1ODBxNmN6ZzVlOGVjbTZlbHh3OWZoM2J6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif" height="40" width="500">
 </div>
 
 
