@@ -293,7 +293,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif" width="400">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="400">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" height="40" width="500">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" height="40" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFyMG9pbjdwa2V0ZW52eGh3cnVjcnoxcHpmcGZtN2JodzRmaDg3ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="400">
 </div>
 
