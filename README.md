@@ -240,3 +240,33 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <div align="center">
 <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47i11k9xb720ocaswhwyvexwxze9ufq3bqxrn8xt7z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </div>
+
+- CAT CMD
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5heXBqbmtsa2EwcW1kZjBwMm9mMmMxd3NoYWY5cXNlYmdwcG1payZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="300">
+</div>
+
+- PENGUIN DEV
+<div align="center">
+<img src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=ecf05e470hgvqw921xcxhljiton0zis0e1g7dmi2eny64nhk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+- STICKMAN DEV
+<div align="center">
+<img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif?cid=ecf05e470hgvqw921xcxhljiton0zis0e1g7dmi2eny64nhk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+- IDK
+<div align="center">
+<img src="https://media.giphy.com/media/YOczfjtC0H0IMBKhRf/giphy.gif?cid=ecf05e478hprqfvwffgfowga67um1o2nz2ik22nlbk5so0h7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+- BEAR DEV
+<div align="center">
+<img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47sm9ax5ptd5qitk85f9fb32adf8a7rgte2lvnzbou&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
+
+- MONKEY PROGRAM RGB
+<div align="center">
+<img src="https://media.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif?cid=ecf05e47l12l5l1wl7fabi320nldfeuqzkfz04fz55zdyezl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+</div>
