@@ -273,7 +273,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - SENDING HUGE
 <div align="center">
-<img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="1000" widh="700">
+<img src="https://media.giphy.com/media/fVybPH8dUxs4j7cXqX/giphy.gif?cid=ecf05e47oob8shaei4da4atykdop11mjrm5wlralsqklv14s&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="500" witdh="700">
 </div>
 
 - Pile of broken robots
