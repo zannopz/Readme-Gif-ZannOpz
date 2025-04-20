@@ -309,4 +309,5 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media1.tenor.com/m/qHQI0up1PGIAAAAd/kimba-crypto.gif" width="400">
 <img src="https://media.tenor.com/YqlDdUM6O60AAAAi/loof-and-timmy-cute-bread.gif" width="400">
 <img src="https://media1.tenor.com/m/8XHjYF26qQQAAAAC/girl-pixel.gif" width="400">
+<img src="https://media1.tenor.com/m/YG_Jz4QQFNIAAAAd/pixel-art-room.gif" width="400">
 </div>
