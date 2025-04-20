@@ -304,3 +304,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="Mentahan Gif/2.gif" width="400">
 </div>
 
+- PIXEL
+<div align="center">
+  <img src="https://tenor.com/en-GB/view/kimba-crypto-cryptocurrency-hector-alvarez-pixel-art-gif-12138336597640035426" width="400">
+</div>
