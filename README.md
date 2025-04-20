@@ -306,5 +306,5 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - PIXEL
 <div align="center">
-<img src="https://tenor.com/oCPScVkO7wI.gif" width="400">
+<img src="https://media1.tenor.com/m/qHQI0up1PGIAAAAd/kimba-crypto.gif" width="400">
 </div>
