@@ -306,5 +306,5 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
 - PIXEL
 <div align="center">
-<img src="https://tenor.com/en-GB/view/kimba-crypto-cryptocurrency-hector-alvarez-pixel-art-gif-12138336597640035426" width="400">
+<img src="https://tenor.com/oCPScVkO7wI.gif" width="400">
 </div>
