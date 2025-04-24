@@ -332,7 +332,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 - GIF TEKS
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanB5bThoaHZ1OXhibThibGVjbjdmNzl1ZTBnNTBja2Y0NWh6bG5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAV4LMPY8k7Mj42gAW/giphy.gif" 
- height="55" width="400">
+ height="60" width="400">
 <img src="https://media.tenor.com/YqlDdUM6O60AAAAi/loof-and-timmy-cute-bread.gif" width="400">
 <img src="https://media1.tenor.com/m/8XHjYF26qQQAAAAC/girl-pixel.gif" width="400">
 <img src="https://media1.tenor.com/m/YG_Jz4QQFNIAAAAd/pixel-art-room.gif" width="400">
