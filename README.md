@@ -328,6 +328,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl6cWFkcXVrNGdzanY0dzhxZnYydTg0N3dodzRsenp6ZXoyZnFjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsaPTMRAOMUWCKKGrg/giphy.gif" width="300">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z4eWY0bHpiMWE2NW94eXdxdm96a3d5d2t5MWVlNnRzOHllbWJzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jb0JNMsofDpAI/giphy.gif" width="300">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQxMXJ2cTlhNXZwb2V0OXptN3JsMGw1a2cwcHphNmV6M2FncTh0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GHKlVpc6ThFB9Zk41M/giphy.gif" width="300">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3eGZlY3g3MTJ1Nm55ZzZwZG14dzluZGVveHdjYzdhejlycHd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif" width="300">
 </div>
 
 - GIF TEKS
