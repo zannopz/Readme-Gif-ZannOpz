@@ -345,4 +345,6 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif?cid=ecf05e47uhuqg869nfnlu6f672klwwdrx7da06hxk9uqb0tm&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="220" width="500">
 </div>
 
+<div align="center">
 <img src="Mentahan Gif/ThankYou.gif" width="300">
+</div>
