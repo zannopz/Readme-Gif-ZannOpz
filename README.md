@@ -311,3 +311,15 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media1.tenor.com/m/8XHjYF26qQQAAAAC/girl-pixel.gif" width="400">
 <img src="https://media1.tenor.com/m/YG_Jz4QQFNIAAAAd/pixel-art-room.gif" width="400">
 </div>
+
+- RANDOM GIF
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxcmhjZmhxdGI5d2tkNnk0NGI5dGV3ZGhxd2lhMXRqYTRrYm5zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/80tcnyJ37s4SpZ1Lwy/giphy.gif" width="400">
+<img src="https://giphy.com/gifs/glasses-gogolitus-teznouns-SRfGYIX570Hz2PmvIr" width="400">
+<img src="https://giphy.com/gifs/pixel-hello-art-TjZtC6RmvFolpDmEDt" width="400">
+<img src="https://media1.tenor.com/m/YG_Jz4QQFNIAAAAd/pixel-art-room.gif" width="400">
+<img src="https://media1.tenor.com/m/qHQI0up1PGIAAAAd/kimba-crypto.gif" width="400">
+<img src="https://media.tenor.com/YqlDdUM6O60AAAAi/loof-and-timmy-cute-bread.gif" width="400">
+<img src="https://media1.tenor.com/m/8XHjYF26qQQAAAAC/girl-pixel.gif" width="400">
+<img src="https://media1.tenor.com/m/YG_Jz4QQFNIAAAAd/pixel-art-room.gif" width="400">
+</div>
