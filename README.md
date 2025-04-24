@@ -323,6 +323,16 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJrb3lwYno3cnRqNWZwOWZwNHQ4bDI5bHRmaGZwcTAxM2hoYWtwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PoHs1Ne8rcMuZRJted/giphy.gif" width="300">
 <img src="https://media.giphy.com/media/odTTszSU3M3pb5I9eW/giphy.gif?cid=ecf05e47o9nqayzw2vxd4ah7jn9kc9tk25rzouh7sft1l3qz&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFpcnE4NXo1eHgwOTR0NWU0ZzRkMGVpcHl4bWNlcXVjczIzaXBxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="300">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd0YXZqZWJ4ODFva2lqYzNtOHAzcnIzcW9uN2RtaGJxcDU0Z2ZvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTMrh8cERaraXDvzRA/giphy.gif" width="300">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF0d2did3l5OWdyY2I3ZWFydnMwazdhbnR6eTN5MzdnMGVnNGFzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1ICgQUOCpjCXIJqjR/giphy.gif" width="300">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl6cWFkcXVrNGdzanY0dzhxZnYydTg0N3dodzRsenp6ZXoyZnFjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsaPTMRAOMUWCKKGrg/giphy.gif" width="300">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z4eWY0bHpiMWE2NW94eXdxdm96a3d5d2t5MWVlNnRzOHllbWJzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jb0JNMsofDpAI/giphy.gif" width="300">
+</div>
+
+- GIF TEKS
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanB5bThoaHZ1OXhibThibGVjbjdmNzl1ZTBnNTBja2Y0NWh6bG5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAV4LMPY8k7Mj42gAW/giphy.gif" 
+ height="100" width="300">
 <img src="https://media.tenor.com/YqlDdUM6O60AAAAi/loof-and-timmy-cute-bread.gif" width="400">
 <img src="https://media1.tenor.com/m/8XHjYF26qQQAAAAC/girl-pixel.gif" width="400">
 <img src="https://media1.tenor.com/m/YG_Jz4QQFNIAAAAd/pixel-art-room.gif" width="400">
