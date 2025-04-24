@@ -331,6 +331,7 @@ Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM3eGZlY3g3MTJ1Nm55ZzZwZG14dzluZGVveHdjYzdhejlycHd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif" width="300">
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJtdjAxcnRpNTNxc3hpc3FnM2Q3dGhjaWQ5YWpscGZqMmJxMjQzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" width="300">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU0c294cDN2MXo4eXM5YzU4d2xla2E4NHRpdjgzaW1oODVldWRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2a3O5Y72CcKZ7osR7/giphy.gif" width="300">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJtdjAxcnRpNTNxc3hpc3FnM2Q3dGhjaWQ5YWpscGZqMmJxMjQzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" width="300">
 </div>
 
 - GIF TEKS
