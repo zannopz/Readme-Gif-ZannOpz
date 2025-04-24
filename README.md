@@ -1,4 +1,6 @@
 <div align="center">
+-APK Hapus Background Gif
+<link src="https://www.online-image-editor.com/">
 
 Made with 💜 by [ZannOpzl](https://www.instagram.com/zann_opz/)
 
